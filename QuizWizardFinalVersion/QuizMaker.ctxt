@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=QuizMaker
+comment0.text=\r\n\ This\ Class\ will\ make\ the\ quiz\ with\ an\ internal\ owner\ tag.\r\n\r\n\ @author\ Daniele\ Del\ Piano\r\n\ @version\ 1.7\r\n
+comment1.params=owner
+comment1.target=QuizMaker(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ QuizMaker\r\n
+comment2.params=
+comment2.target=void\ start()
+comment3.params=
+comment3.target=void\ addQuestionPrompt()
+comment3.text=\r\n\ Method\ to\ prompt\ a\ question\ with\ answers.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getOwner()
+comment4.text=\r\n\ Get\ the\ quiz\ tag\ intern\ use\ only\r\n
+comment5.params=
+comment5.target=void\ welcomeMenu()
+comment5.text=\r\n\ Welcome\ menu\r\n
+comment6.params=
+comment6.target=void\ replQuestion()
+comment6.text=\r\n\ replace\ a\ question\r\n
+comment7.params=
+comment7.target=void\ removeQuestion()
+comment7.text=\r\n\ A\ method\ to\ remove\ a\ question\ by\ providing\ the\ unique\ code.\r\n
+numComments=8

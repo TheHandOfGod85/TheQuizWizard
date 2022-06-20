@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Quiz
+comment0.text=\r\n\ A\ class\ that\ has\ the\ responsability\ to\ create\ a\ quiz\ with\ question.\r\n\r\n\ @author\ Daniele\ Del\ Piano\r\n\ @version\ 1.7\r\n
+comment1.params=
+comment1.target=Quiz()
+comment1.text=\r\n\ Please\ insert\ the\ reference\ to\ the\ module\ it\ assesses\r\n\ (e.g.,\ \u201CDC1000\:\ Foundations\ of\ Technology\ Solutions\u201D)\r\n
+comment2.params=ref
+comment2.target=void\ setReference(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getReference()
+comment3.text=\r\n\ A\ getter\ for\ the\ Quiz\ reference\r\n
+comment4.params=
+comment4.target=void\ printReference()
+comment4.text=\r\n\ Print\ the\ Quiz\ reference\r\n
+comment5.params=code\ quest
+comment5.target=void\ addQuestions(java.lang.String,\ Question)
+comment5.text=\r\n\ Add\ a\ question\ to\ the\ quiz\r\n
+comment6.params=code\ quest
+comment6.target=void\ replaceQuestion(java.lang.String,\ Question)
+comment6.text=\r\n\ A\ method\ to\ replace\ a\ question\ based\ on\ the\ unique\ code.\r\n
+comment7.params=code
+comment7.target=void\ removeQuestion(java.lang.String)
+comment7.text=\r\n\ A\ method\ to\ remove\ a\ question\ based\ on\ the\ unique\ code.\r\n
+comment8.params=
+comment8.target=void\ printQuiz()
+comment8.text=\r\n\ A\ method\ to\ print\ questions\ added\ to\ the\ quiz\ and\ the\ answers.\r\n
+numComments=9
